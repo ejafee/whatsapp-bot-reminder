@@ -28,7 +28,7 @@ Before running this project, make sure you have:
 
 3.  Once you see `Bot is ready!`, you can start sending commands.
 
-## 📝 Commands
+## Commands
 
 | Command | Example | Description |
 | :--- | :--- | :--- |
